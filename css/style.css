@@ -1069,6 +1069,11 @@ form label {
   color: #F14E95;
   font-size: 30px;
 }
+.couple-halfss h3 {
+ 
+  color: #fff;
+  font-size: 15px;
+}
 .couple-half .groom, .couple-half .bride {
   float: left;
   -webkit-border-radius: 50%;
